@@ -1,0 +1,4 @@
+- Do day 1 training
+- Commit in GK
+- Push to GH
+- Check repo online
